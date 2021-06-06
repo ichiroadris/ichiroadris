@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on multiple personal project with Tutory as the main project.
+- 🔭 I’m currently working on multiple personal project with Amial as the main project.
 - 💬 Ask me about any web development stuff as that are what I am familiar with.
 - 📫 How to reach me: <br> <br>
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ichiroadris) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ichiroadris) [![Personal Website](https://img.shields.io/badge/my-website-blue)](https://ichiroadris.com)
